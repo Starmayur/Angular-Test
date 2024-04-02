@@ -1,0 +1,16 @@
+nav{
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    margin-top: 18px;
+    display: inline-block;
+   font-size: larger;
+}
+.box{
+    margin-left:1100px ;
+}
